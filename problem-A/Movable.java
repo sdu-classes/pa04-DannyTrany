@@ -1,4 +1,4 @@
-package Problem-A;
+package ProblemA;
 
 public interface Movable {
     abstract void moveUp();
