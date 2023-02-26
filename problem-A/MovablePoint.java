@@ -1,4 +1,4 @@
-package Problem-A;
+package ProblemA;
 
 public class MovablePoint implements Movable {
     int x;
