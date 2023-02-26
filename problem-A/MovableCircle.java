@@ -1,4 +1,4 @@
-package Problem-A;
+package ProblemA;
 
 public class MovableCircle implements Movable{
     private int radius;
